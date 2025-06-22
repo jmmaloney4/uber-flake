@@ -1,5 +1,5 @@
 {
-  outputs = { self }: {
+  outputs = {self}: {
     templates.default = {
       path = ./default;
     };
